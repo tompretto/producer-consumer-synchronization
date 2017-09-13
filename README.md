@@ -1,5 +1,5 @@
-# pthreads-with-mutex-locks
-Linux c example with pthreads and Mutex locks
+# Producer-Consumer synchronization
+Linux c example with Process and Thread synchronization
 
 This file explores various methods to fix the race conditions in multi-processes, multi-threaded program. When processes 
 and threads access the same resources, race condition will occur and data or output will not be the same as expected. 
