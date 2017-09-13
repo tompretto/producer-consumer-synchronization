@@ -1,5 +1,5 @@
-/* to compile:  gcc -o pthread_demo pthread_demo.c -l pthread
- *
+/* to compile:  gcc -o SynchroThread SynchroThread.c -l pthread
+ *  Linux Version of thread Synchronization
 */ 
 
 #include <pthread.h>
